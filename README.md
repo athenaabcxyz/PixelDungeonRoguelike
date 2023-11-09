@@ -8,7 +8,7 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 - Complete random dungeon generator and set-up GameManager
 - Setup Player class (ongoing)
 
-* Update 09-11-2023:
+*Update 09-11-2023:
 - Add project document
 - Add player prefabs
 - Configure Animation
