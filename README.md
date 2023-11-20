@@ -29,3 +29,7 @@ This is the project for learning Unity Engine at beginner-intermediate levels.
 *Update 1-11-2023:
 - Implement object pooling
 
+*Update 20-11-2023
+- Configure weapon and ammo system
+- Configure weapons and ammo types variant
+
